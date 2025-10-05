@@ -9,13 +9,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **web development projects**
-- 🌱 I'm currently learning **new technologies and frameworks**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **Web Development, JavaScript, PHP**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **I love solving complex problems!**
+### Contribution Graph
+![3D Profile](https://raw.githubusercontent.com/Aminesouini12356/Aminesouini12356/main/profile-3d-contrib/profile-night-rainbow.svg)
 
+---
 ---
 
 ### 🛠️ Tech Stack
@@ -58,6 +55,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SALAHE-DDINE7/SALAHE-DDINE7/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+![GitHub Snake Light](https://raw.githubusercontent.com/Aminesouini12356/Aminesouini12356/main/dist/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Aminesouini12356/Aminesouini12356/main/dist/snake-dark.svg#gh-dark-mode-only)
+
