@@ -10,7 +10,9 @@
 
 ### 🚀 About Me
 ### Contributio
-Link: <p align="center"><a href="salaheddineportfo.netlify.app"></a></p>
+Link: <p align="center">
+<a href="salaheddineportfo.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
 ---
 ---
