@@ -9,8 +9,8 @@
 ---
 
 ### 🚀 About Me
-### Contribution Graph
-![3D Profile](https://raw.githubusercontent.com/Aminesouini12356/Aminesouini12356/main/profile-3d-contrib/profile-night-rainbow.svg)
+### Contributio
+Link: (salaheddineportfo.netlify.app)
 
 ---
 ---
@@ -53,8 +53,4 @@
   <a href="https://github.com/SALAHE-DDINE7"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
----
-
-![GitHub Snake Light](https://raw.githubusercontent.com/Aminesouini12356/Aminesouini12356/main/dist/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Aminesouini12356/Aminesouini12356/main/dist/snake-dark.svg#gh-dark-mode-only)
 
