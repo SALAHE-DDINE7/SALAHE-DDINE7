@@ -50,7 +50,7 @@ Link: (salaheddineportfo.netlify.app)
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/SALAHEDDINEBAKHATAR"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SALAHE-DDINE7"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="salaheddineportfo.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 
