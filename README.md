@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Salaheddine</h1>
-<h3 align="center">Full-Stack Developer • Laravel & React • Morocco 🇲🇦</h3>
+<h3 align="center">Full-Stack Developer • Morocco 🇲🇦</h3>
 
 <p align="center">
   <a href="https://github.com/SALAHE-DDINE7">
@@ -18,9 +18,7 @@ I build **clean, scalable, and real-world web applications**.
 I care about **architecture, performance, and user experience**.
 
 - 💻 Full-Stack Developer (Laravel • React • MySQL)
-- ⚙️ Strong interest in backend logic & system design
-- 📚 Currently leveling up **advanced JavaScript & APIs**
-- 🎯 Goal: ship meaningful products and grow into a senior-level engineer
+- 🎯 Goal: ship meaningful products and grow into a senior-level 
 
 🌐 **Portfolio** → https://scodes.netlify.app/
 
