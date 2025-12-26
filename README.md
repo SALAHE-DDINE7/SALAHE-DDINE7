@@ -63,6 +63,15 @@
 
 ---
 
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SALAHE-DDINE7&theme=react-dark&hide_border=true" />
+</p>
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
