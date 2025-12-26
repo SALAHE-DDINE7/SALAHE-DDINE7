@@ -28,12 +28,12 @@ I care about **architecture, performance, and user experience**.
 
 🚀 **Khadamni.ma**  
 AI-powered platform helping Moroccan graduates create CVs & find jobs  
-**Tech:** Laravel · Vue · MySQL · Tailwind  
+**Tech:** Laravel · React · MySQL · Tailwind  
 🔗 https://github.com/Khadamni
 
 🩺 **Veterinary Clinic Management System**  
 Complete management system for patients & consultations  
-**Tech:** PHP · MySQL · Bootstrap  
+**Tech:** PHP · MySQL   
 🔗 https://github.com/Vet-Clinic
 
 ---
