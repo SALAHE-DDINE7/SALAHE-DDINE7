@@ -20,7 +20,7 @@ I care about **architecture, performance, and user experience**.
 - 💻 Full-Stack Developer (Laravel • React • MySQL)
 - 🎯 Goal: ship meaningful products and grow into a senior-level 
 
-🌐 **Portfolio** → [scodes.netlify.app](https://scodes.netlify.app/)
+🌐 **Portfolio** → https://scodes.netlify.app/
 
 ---
 
@@ -29,12 +29,12 @@ I care about **architecture, performance, and user experience**.
 🚀 **Khadamni.ma**  
 AI-powered platform helping Moroccan graduates create CVs & find jobs  
 **Tech:** Laravel · React · MySQL · Tailwind  
-🔗 [GitHub](https://github.com/Khadamni)
+🔗 https://github.com/Khadamni
 
 🩺 **Veterinary Clinic Management System**  
 Complete management system for patients & consultations  
 **Tech:** PHP · MySQL   
-🔗 [GitHub](https://github.com/Vet-Clinic)
+🔗 https://github.com/Vet-Clinic
 
 ---
 
@@ -58,19 +58,23 @@ Complete management system for patients & consultations
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SALAHE-DDINE7&show_icons=true&theme=radical&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SALAHE-DDINE7&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALAHE-DDINE7&layout=compact&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SALAHE-DDINE7&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SALAHE-DDINE7&theme=radical" />
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SALAHE-DDINE7&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SALAHE-DDINE7&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -91,3 +95,4 @@ Complete management system for patients & consultations
 <p align="center">
   <i>"Code is not just written — it’s designed."</i>
 </p>
+9add liya dik github acitvity
