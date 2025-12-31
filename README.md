@@ -58,6 +58,8 @@ Complete management system for patients & consultations
 
 ---
 
+
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -68,6 +70,11 @@ Complete management system for patients & consultations
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SALAHE-DDINE7&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/SALAHE-DDINE7" alt="Salaheddine's GitHub chart" />
+</p>
+
 
 ---
 
