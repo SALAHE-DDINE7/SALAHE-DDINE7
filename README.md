@@ -80,6 +80,6 @@ Complete management system for patients & consultations
 ---
 
 <p align="center">
-  <i>"Code is not just written — it’s designed."</i>
+  <i>"You should see me as the king tho , guess the crown fits👑"</i>
 </p>
-9add liya dik github acitvity
+
