@@ -57,17 +57,6 @@ Complete management system for patients & consultations
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SALAHE-DDINE7&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALAHE-DDINE7&layout=compact&theme=radical" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SALAHE-DDINE7&theme=radical" width="100%" />
-</p>
----
 
 ## 📈 Contribution Graph
 
